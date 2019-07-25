@@ -1,5 +1,5 @@
 
-# Work with eslint, following prettier and airbnb style suggestions!
+# Work with eslint, prettier and airbnb style suggestions!
 ## Instructions
 
 1. Execute
