@@ -4,7 +4,8 @@
     "rules": {
         "no-unused-vars":"warn",
         "object-shortcut:":"off",
-        "prettier/prettier":"error",
+        "prettier/prettier":"warn",
         "no-process-exit":"off",
+        "no-console": "off"
     }
 }
